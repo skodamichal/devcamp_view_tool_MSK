@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool_MSK'
+DevcampViewToolMSK::Renderer.copyright 'Michal Skoda', 'All rights reserved'
 ```
 
 And then execute:
