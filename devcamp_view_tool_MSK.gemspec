@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["skoda.michal@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{My first gem.}
+  spec.homepage      = 'Https://github.com/[USERNAME]/devcamp_view_tool_MSK'
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
