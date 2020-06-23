@@ -2,7 +2,7 @@ require_relative 'lib/devcamp_view_tool_MSK/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "devcamp_view_tool_MSK"
-  spec.version       = '0.1.0'
+  spec.version       = DevCampViewToolMSK::VERSION
   spec.authors       = ["Michal Skoda"]
   spec.email         = ["skoda.michal@gmail.com"]
 
